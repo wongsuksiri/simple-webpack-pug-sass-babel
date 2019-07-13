@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'THSarabun';
+    src: url('./THSarabun.eot');
+    src: url('./THSarabun.eot') format('embedded-opentype'),
+        url('./THSarabun.woff2') format('woff2'),
+        url('./THSarabun.woff') format('woff'),
+        url('./THSarabun.ttf') format('truetype'),
+        url('./THSarabun.svg#THSarabun') format('svg');
+    font-display: swap;
+}
