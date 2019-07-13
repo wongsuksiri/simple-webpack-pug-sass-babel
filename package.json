@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Build simple page by using SASS, PUG and JS",
   "scripts": {
-    "start": "webpack-dev-server --mode development --inline --hot --open",
+    "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
   "author": "Wongsakorn Suksiri",
